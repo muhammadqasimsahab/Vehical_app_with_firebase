@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>535809289690-pof8moml006ak231spldlcpd2u8buakg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.535809289690-pof8moml006ak231spldlcpd2u8buakg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDICCMJsIxPQZvx6RVAK1rK5mfLyWn2tvM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>535809289690</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vehicalManagement</string>
+	<key>PROJECT_ID</key>
+	<string>vehical-managment</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vehical-managment.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:535809289690:ios:727e5c9b2da091b025a4e3</string>
+</dict>
+</plist>
